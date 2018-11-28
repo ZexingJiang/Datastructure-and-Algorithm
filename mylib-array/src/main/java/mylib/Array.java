@@ -1,4 +1,4 @@
-
+package mylib;
 
 public class Array {
     public int size;
