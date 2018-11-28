@@ -59,7 +59,7 @@ public class Array {
     @Override
     public String toString(){
         StringBuilder res = new StringBuilder();
-        res.append(String.forma)
+        // res.append(String.forma)
         return res.toString();
     } 
 
